@@ -1,5 +1,4 @@
 # Android-ImplicitIntentDemo
-Assignment Two: 
 Implicit Intent Demo Application
 							
 Name : Anand Muralidhara					 
